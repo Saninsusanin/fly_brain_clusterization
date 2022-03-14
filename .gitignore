@@ -127,3 +127,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.idea/
+*__pycache__/
+*.python-version
+*.DS_Store
+*.swp
+*/venv
+*data/
+*.out
+*.log
+*.csv
+*.ipynb_checkpoints
+*cmake-build-debug/
+*cmake-build-release/
+graph_clusterisation/clusterizer/visualiser/data/
+graph_clusterisation/clusterizer/data/
