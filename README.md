@@ -1,6 +1,6 @@
 # Brain segmentation
 
-[Presentation](https://docs.google.com/presentation/d/1sUASOYDsf73aqHKjWInRfB6kuYNHTPp_/edit?usp=sharing&ouid=112317761950104967526&rtpof=true&sd=true), but it is on russian
+[Presentation](https://docs.google.com/presentation/d/1RexJKJhKoz3l7kB0DZQ_h-yEBJ2Py50UVGyMlsiq0cQ/edit?usp=sharing), but it is on russian
 
 | Algorithm      |  MEL1  |  MEL2  |  MEL3  |  SIM2  |  SIM3  |  SIM4  |
 | :---           | :----: | :----: | :----: | :----: | :----: | :----: |
